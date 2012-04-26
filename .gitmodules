@@ -1,0 +1,6 @@
+[submodule "chef/cookbooks/pivotal_workstation"]
+	path = chef/cookbooks/pivotal_workstation
+	url = https://github.com/avh4/pivotal_workstation.git
+[submodule "chef/cookbooks/avh4_workstation"]
+	path = chef/cookbooks/avh4_workstation
+	url = https://github.com/avh4/avh4_workstation.git

@@ -1,0 +1,12 @@
+cookbook_paths:
+- ./chef/cookbooks/
+recipes:
+- pivotal_workstation::bash_profile-git_completion
+- pivotal_workstation::chrome
+- pivotal_workstation::dropbox
+- pivotal_workstation::github_ssh_keys
+- pivotal_workstation::intellij_community_edition
+- pivotal_workstation::java
+- pivotal_workstation::menumeters
+- pivotal_workstation::mouse_locator
+- avh4_workstation::active_corners
