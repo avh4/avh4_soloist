@@ -10,5 +10,13 @@ recipes:
 - pivotal_workstation::java
 - pivotal_workstation::menumeters
 - pivotal_workstation::mouse_locator
+- pivotal_workstation::rvm
+- pivotal_workstation::textmate
 - avh4_workstation::active_corners
 - avh4_workstation::nvalt
+node:
+  github_username: avh4
+  github_password: :ask
+  rvm:
+    rubies:
+      ruby-1.8.7-p299: {}
