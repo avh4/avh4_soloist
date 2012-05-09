@@ -12,6 +12,7 @@ recipes:
 - pivotal_workstation::mouse_locator
 - pivotal_workstation::rvm
 - pivotal_workstation::textmate
+- avh4_workstation::1password
 - avh4_workstation::active_corners
 - avh4_workstation::nvalt
 node_attributes:
